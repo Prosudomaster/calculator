@@ -11,7 +11,7 @@ body {
   padding: 20px;
   border: none;
   font-family: Arial, sans-serif;
-  background-color: hsla(323, 98%, 37%, 0.824);
+  background-color: hsla(323, 50%, 14%, 0.301);
   color: #ffffff;
   font-weight: bold;
   font-size: x-large;
@@ -39,7 +39,7 @@ body {
 button {
   height: 50px;
   width: 50px;
-  border-radius: 7px;
+  border-radius: 25px;
   border: none;
   background-color: rgb(69, 0, 130);
   color: aliceblue;
@@ -47,5 +47,5 @@ button {
   font-size: x-large;
   font-family: arial, sans-serif;
   box-shadow: inset 0 -3em 3em rgba(129, 78, 211, 0.3),
-    0 0 0 1px rgb(255, 174, 243), 0.3em 0.3em 1em rgba(129, 9, 103, 0.6);
+    0 0 0 1px rgba(0, 0, 0, 0), 0.3em 0.3em 1em rgba(0, 0, 0, 0.66);
 }
